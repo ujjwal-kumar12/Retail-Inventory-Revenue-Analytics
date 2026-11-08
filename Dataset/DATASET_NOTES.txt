@@ -1,0 +1,18 @@
+RETAIL INVENTORY & REVENUE ANALYTICS — DATASET NOTES
+
+This is synthetic sample data created for a portfolio learning project. It does not represent a real company.
+Reporting period: 2025-01-01 to 2025-12-31. Currency: INR.
+Sales lines: 670; unique orders: 420; products: 30; stores: 6; inventory rows: 180.
+
+Files:
+- Retail_Inventory_Revenue_Dataset.xlsx: master workbook with Overview, Sales, Products, Stores, Inventory, and Data_Dictionary sheets.
+- CSV/Sales.csv, Products.csv, Stores.csv, Inventory.csv: separate flat files for database loading.
+
+Relationships:
+- Sales.Product_ID -> Products.Product_ID
+- Sales.Store_ID -> Stores.Store_ID
+- Inventory.Product_ID -> Products.Product_ID
+- Inventory.Store_ID -> Stores.Store_ID
+
+Inventory consistency: Closing_Stock = Opening_Stock + Stock_Received - Units_Sold_2025.
+Units_Sold_2025 is reconciled to Sales by Product_ID and Store_ID.
