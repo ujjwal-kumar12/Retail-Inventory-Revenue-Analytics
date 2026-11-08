@@ -1,0 +1,7 @@
+﻿Store_ID,Store_Name,City,State,Region,Store_Type
+ST001,Central Market Store,Delhi,Delhi,North,High Street
+ST002,Pink City Outlet,Jaipur,Rajasthan,North,Mall
+ST003,Garden City Store,Bengaluru,Karnataka,South,High Street
+ST004,Marina Retail Hub,Chennai,Tamil Nadu,South,Mall
+ST005,Western Plaza Store,Mumbai,Maharashtra,West,Mall
+ST006,City Centre Outlet,Kolkata,West Bengal,East,High Street

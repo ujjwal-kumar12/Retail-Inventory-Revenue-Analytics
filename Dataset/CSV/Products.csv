@@ -1,0 +1,31 @@
+﻿Product_ID,Product_Name,Category,Sub_Category,Brand,Supplier,Unit_Cost_INR,Unit_Selling_Price_INR,Reorder_Level
+P001,Wireless Mouse,Electronics,Computer Accessories,LogiTech,TechSource,380,699,12
+P002,Bluetooth Speaker,Electronics,Audio,SoundWave,TechSource,850,1499,10
+P003,USB-C Cable,Electronics,Accessories,ConnectPro,ElectroHub,90,199,25
+P004,Power Bank 10000mAh,Electronics,Mobile Accessories,VoltX,ElectroHub,620,1099,10
+P005,Keyboard,Electronics,Computer Accessories,KeyCraft,TechSource,520,999,10
+P006,LED Desk Lamp,Home & Kitchen,Lighting,BrightHome,HomeMart,310,599,12
+P007,Stainless Steel Bottle,Home & Kitchen,Kitchenware,HydroLife,HomeMart,180,399,18
+P008,Non-stick Frying Pan,Home & Kitchen,Cookware,CookEase,HomeMart,540,999,8
+P009,Cotton Bedsheet,Home & Kitchen,Bedding,SoftNest,HomeMart,650,1199,8
+P010,Storage Organizer,Home & Kitchen,Storage,NeatSpace,HomeMart,220,449,15
+P011,Ceramic Mug Set,Home & Kitchen,Kitchenware,ClayCraft,HomeMart,260,499,12
+P012,Water Purifier Filter,Home & Kitchen,Appliances,PureFlow,HomeMart,780,1399,6
+P013,Men's Casual T-Shirt,Clothing,Men's Wear,UrbanThread,FashionLink,240,499,15
+P014,Women's Kurti,Clothing,Women's Wear,Ethniq,FashionLink,420,899,12
+P015,Denim Jeans,Clothing,Men's Wear,BluePeak,FashionLink,720,1399,10
+P016,Cotton Socks Pack,Clothing,Accessories,StepUp,FashionLink,85,199,25
+P017,Women's Leggings,Clothing,Women's Wear,FlexFit,FashionLink,190,399,18
+P018,Winter Hoodie,Clothing,Winter Wear,NorthBay,FashionLink,680,1299,8
+P019,School Backpack,Clothing,Bags,CarrySmart,FashionLink,510,999,10
+P020,Rice 5kg,Grocery,Staples,DailyHarvest,FreshSupply,210,299,30
+P021,Sunflower Oil 1L,Grocery,Cooking Essentials,GoldenDrop,FreshSupply,105,149,35
+P022,Tea 500g,Grocery,Beverages,MorningLeaf,FreshSupply,155,229,25
+P023,Wheat Flour 5kg,Grocery,Staples,GrainField,FreshSupply,145,219,30
+P024,Packaged Juice 1L,Grocery,Beverages,FruitJoy,FreshSupply,58,99,40
+P025,Breakfast Cereal,Grocery,Breakfast,StartWell,FreshSupply,125,199,25
+P026,Dishwash Liquid 1L,Home & Kitchen,Cleaning,Sparkle,HomeMart,92,159,24
+P027,Face Wash 100ml,Personal Care,Skin Care,GlowCare,DailyNeeds,78,149,22
+P028,Shampoo 340ml,Personal Care,Hair Care,SilkPlus,DailyNeeds,145,249,18
+P029,Toothpaste 150g,Personal Care,Oral Care,DentWell,DailyNeeds,62,109,30
+P030,Electric Trimmer,Personal Care,Grooming,TrimPro,DailyNeeds,590,999,9
